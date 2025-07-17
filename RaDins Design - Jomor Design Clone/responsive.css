@@ -1,0 +1,120 @@
+@media (max-width : 600px) {
+    #cursor{
+        display: none;
+    }
+    #navbar h1{
+        display: none;
+    }
+    #nav2{
+        display: flex;
+    }
+    #curve{
+        height: 30vh;
+    }
+    #page1{
+        margin-top: 28vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-start;
+        min-height: 30vh;
+        /* background-color: red; */
+    }
+    #page1 h1{
+        font-size: 13vw;
+        line-height: -1;
+        letter-spacing: 1px;
+    }
+    #page1 h1:nth-child(1){
+        margin-left: -15vw;
+    }
+    #page1 h1:nth-child(2){
+        margin-right: 10vw;
+    }
+    #page1 h1:nth-child(3){
+        margin-left: 10vw;
+    }
+    #page1 h1:nth-child(4){
+        margin-left: 3vw;
+    }
+    #icon {
+        right: -5%;
+        bottom: 3.5%;
+    }
+    #icon img{
+        height: 10vh;
+    }
+   #page2{
+    padding: 0vw 0vw;
+   } 
+    #page2 img{
+        width: 35vw;
+    }
+    #page2 #img1{
+        margin-left: 35vw;
+
+    }
+    #page2 #img2{
+        margin-left: 60vw;
+        margin-top: 15vw;
+
+    }
+    #page2 #image-2{
+        flex-direction: column;
+        margin-top: 50vw;
+        gap: 10vw;
+    }
+    #page2 #image-2 #img3{
+        margin-left: 60vw;
+    }
+    #page2 #image-2 #img4{
+        margin-left: 12vw;
+    }
+    #page3 #mainvideo{
+        height: 25vh;
+        width: 90%;
+    }
+    #top-wrap-bubble{
+        height: 36vh;
+    }
+    .section{
+        min-height: 30vh ;
+    }
+    
+    #all2{
+        min-height: 100vh;
+        background-color: tan;
+    }
+    #page5{
+        min-height: 30vh;
+    }
+    #page6{
+        padding: 2vh 0 0 11vw;
+    }
+    #page6 p:nth-child(1){
+        width: 55vw;
+    }
+    #page7{
+        padding: 1vw 1vw;
+    }
+    #page7 #text {
+        margin-top: 8vh;
+    }
+    #footer{
+        min-height: 55vh;
+    }
+    #top-wrap-bubble2{
+        height: 33vh;
+    }
+    #logoText{
+        height: 30vh;
+    }
+
+
+
+
+
+
+
+}
+    
